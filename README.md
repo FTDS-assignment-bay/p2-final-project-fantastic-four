@@ -25,7 +25,7 @@ The objective of this project is to create an accurate recommender system based 
 - Model creation is where DS creates models; Recommeder System and Clustering
 - Model deployment is where DS deploys the models that were made into HuggingFace for it to be used by user.
 
-### Data Engineering (DE)
+### Data Engineer (DE)
 - Data Collecting is where DE collects USA AirBnB data from Kaggle. The data itself contains AirBnB list from 31 different cities in the USA from the year 2023
 - Data Cleaning is where DE clean the data; handling inconsistency of the data, handling duplicate data, filtering features that will be used by DA or DS, and handling missing values.
 
