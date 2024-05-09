@@ -14,27 +14,25 @@
 
 
 # Introduction
-Recommender System and Clustering for AirBnB
+Travelers around the world is always looking for a place for them to rest their body and soul after such a long day doing their activities and thus they will find a comfortable place to completely recharge their energy back for better tomorrow. Although the amount of choices available are vast and vary that sometimes makes them confused to choose a place to stay. With FantasticBnB, travelers won't need to worry about where to stay because in this app, you could search the best place you can stay based on your preference! We will recommend you to the best offer we can find for you!
 
-## Project Overview
-
-
-### Objective
-
+## Objective
+The objective of this project is to create an accurate recommender system based on user input preference of AirBnB description with the help of clustering to determine which AirBnB is for low-cost and high-cost.
 
 
 ## Jobdesk
 ### Data Scientist (DS)
-- Put description here
-- Put description here
+- Model creation is where DS creates models; Recommeder System and Clustering
+- Model deployment is where DS deploys the models that were made into HuggingFace for it to be used by user.
 
 ### Data Engineering (DE)
-- Data Collecting is where DE collects USA AirBnB data from database. The data itself contains AirBnB list from 31 different cities in the USA 
+- Data Collecting is where DE collects USA AirBnB data from Kaggle. The data itself contains AirBnB list from 31 different cities in the USA from the year 2023
 - Data Cleaning is where DE clean the data; handling inconsistency of the data, handling duplicate data, filtering features that will be used by DA or DS, and handling missing values.
 
 ### Data Analyst (DA)
-- Put description here
-- Put description here
+- Visualization is where DA visualize the data features that affect the clusters
+- Reporting is where DA make a deep analysis and give insights from the collected data
 
-Visualization: [Click Here!](https://lookerstudio.google.com/reporting/10246f2e-ef11-4fb1-bd99-9dfefe9a0d69)
-Deployment: [Click Here]()
+Dashboard: [Click Here!](https://lookerstudio.google.com/reporting/10246f2e-ef11-4fb1-bd99-9dfefe9a0d69)
+
+Deployment: [Click Here!]()
