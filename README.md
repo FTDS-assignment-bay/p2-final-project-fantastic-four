@@ -12,7 +12,6 @@
 - Data Analyst:
     1. Siti Sofiah Ramadhany - [Github](https://github.com/sofiahra) - [LinkedIn](https://www.linkedin.com/in/sofiah-ramadhany-85980a2aa/)
 
-
 # Introduction
 Travelers around the world is always looking for a place for them to rest their body and soul after such a long day doing their activities and thus they will find a comfortable place to completely recharge their energy back for better tomorrow. Although the amount of choices available are vast and vary that sometimes makes them confused to choose a place to stay. With FantasticBnB, travelers won't need to worry about where to stay because in this app, you could search the best place you can stay based on your preference! We will recommend you to the best offer we can find for you!
 
@@ -35,4 +34,4 @@ The objective of this project is to create an accurate recommender system based 
 
 Dashboard: [Click Here!](https://lookerstudio.google.com/reporting/10246f2e-ef11-4fb1-bd99-9dfefe9a0d69)
 
-Deployment: [Click Here!]()
+Deployment - FantasticBNB: [Click Here!](huggingface.co/spaces/ragprim/FantasticBNB)
