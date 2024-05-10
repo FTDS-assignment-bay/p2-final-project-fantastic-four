@@ -34,4 +34,4 @@ The objective of this project is to create an accurate recommender system based 
 
 Dashboard: [Click Here!](https://lookerstudio.google.com/reporting/10246f2e-ef11-4fb1-bd99-9dfefe9a0d69)
 
-Deployment - FantasticBNB: [Click Here!](huggingface.co/spaces/ragprim/FantasticBNB)
+Deployment - FantasticBNB: [Click Here!](https://huggingface.co/spaces/ragprim/FantasticBNB)
